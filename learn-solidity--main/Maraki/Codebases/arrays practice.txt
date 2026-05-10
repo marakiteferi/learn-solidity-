@@ -1,4 +1,4 @@
-=== 1. Fixed Sum ===
+Z=== 1. Fixed Sum ===
 
 [Goal]
 Create a pure, external function sum which takes a fixed size array of five unsigned integers and returns their sum.
